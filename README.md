@@ -905,3 +905,9 @@ class SearchCopilotEvent extends Event {
     this.repoNwo = repoNwo
   }
 }
+
+
+
+
+
+oh yeah before i forget support 81.... coming from 16 kenyon mn 
